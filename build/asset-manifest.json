@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fa7122ce.css",
+    "main.js": "/static/js/main.7cb3dfc0.js",
+    "static/media/user2.png": "/static/media/user2.61ecb6e7b02a49b5b86b.png",
+    "static/media/user1.png": "/static/media/user1.3fa28f53101f1fe888b8.png",
+    "static/media/main.png": "/static/media/main.c6d058a7cc3b0e1d817b.png",
+    "static/media/Thar.png": "/static/media/Thar.f0551b84d5dda076c90a.png",
+    "static/media/thar.png": "/static/media/thar.f0551b84d5dda076c90a.png",
+    "static/media/Breeza.png": "/static/media/Breeza.dd6ea772d029dec0a196.png",
+    "static/media/Swift.png": "/static/media/Swift.7a4ff812bb53a50d188f.png",
+    "static/media/heroes-bg.png": "/static/media/heroes-bg.7a4ff812bb53a50d188f.png",
+    "static/media/Creta.png": "/static/media/Creta.c39afd0ba8a0257eb027.png",
+    "static/media/about-main.jpg": "/static/media/about-main.ed0137841dc67d61ec95.jpg",
+    "static/media/car.png": "/static/media/car.5e21eedbea3280311aff.png",
+    "static/media/bg02.png": "/static/media/bg02.3efbc4567749d0a5671e.png",
+    "static/media/Nexon.png": "/static/media/Nexon.e8b75313aed6d7608b5f.png",
+    "static/media/Benz.png": "/static/media/Benz.f3ee1b3aa60c957af612.png",
+    "static/media/logo1.png": "/static/media/logo1.29328a88c53814a6a6b4.png",
+    "static/media/logo.png": "/static/media/logo.92f160d2894c9c7d6231.png",
+    "static/media/hero-bg.png": "/static/media/hero-bg.3b5f7a2502f0f81d1490.png",
+    "static/media/bg.png": "/static/media/bg.82b3bf0dc76cd35f3da0.png",
+    "static/media/book-bg.png": "/static/media/book-bg.6f629a1041e9fd9c6685.png",
+    "static/media/book-banner.png": "/static/media/book-banner.09fcba44170a314c81a8.png",
+    "static/media/bg-contact.png": "/static/media/bg-contact.c178c6db0f988d408d94.png",
+    "index.html": "/index.html",
+    "main.fa7122ce.css.map": "/static/css/main.fa7122ce.css.map",
+    "main.7cb3dfc0.js.map": "/static/js/main.7cb3dfc0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fa7122ce.css",
+    "static/js/main.7cb3dfc0.js"
+  ]
+}
